@@ -4,7 +4,7 @@ import openai
 import gradio as gr
 
 # Set up your OpenAI API key here
-openai.api_key = "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"
+openai.api_key = "Your OpenAI APIgit commit -m "Descriptive commit message""
 
 
 # Function to interact with the OpenAI LLM
@@ -47,6 +47,4 @@ with gr.Blocks() as demo:
 if __name__ == "__main__":
     demo.launch(share=True)
 
-git init
-git add chatbot.py
-git commit -m "Initial commit: LLM chatbot with Gradio"
+
