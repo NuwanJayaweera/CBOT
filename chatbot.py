@@ -4,7 +4,7 @@ import openai
 import gradio as gr
 
 # Set up your OpenAI API key here
-openai.api_key = "Your OpenAI APIgit commit -m "Descriptive commit message""
+openai.api_key = "Your OpenAI API'
 
 
 # Function to interact with the OpenAI LLM
